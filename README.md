@@ -81,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
