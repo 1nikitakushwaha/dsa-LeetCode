@@ -85,4 +85,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0182-duplicate-emails) |
+| [0607-sales-person](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0607-sales-person) |
 <!---LeetCode Topics End-->
