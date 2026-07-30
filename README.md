@@ -85,5 +85,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0182-duplicate-emails) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0607-sales-person](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0607-sales-person) |
 <!---LeetCode Topics End-->
