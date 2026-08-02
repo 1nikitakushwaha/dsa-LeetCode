@@ -89,4 +89,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0184-department-highest-salary) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0607-sales-person](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0607-sales-person) |
+| [0627-swap-sex-of-employees](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
