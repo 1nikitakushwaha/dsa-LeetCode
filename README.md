@@ -93,5 +93,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0627-swap-sex-of-employees](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0627-swap-sex-of-employees) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1084-sales-analysis-iii](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/1084-sales-analysis-iii) |
+| [1393-capital-gainloss](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/1393-capital-gainloss) |
 | [1407-top-travellers](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/1407-top-travellers) |
 <!---LeetCode Topics End-->
