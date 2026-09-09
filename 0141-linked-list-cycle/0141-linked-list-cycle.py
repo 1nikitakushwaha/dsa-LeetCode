@@ -7,12 +7,24 @@
 class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
         #BRUTE FORCE SOLUTION 
-        temp=head
-        my_set=set()
-        while temp is not None:
-            if temp in my_set:
+        # temp=head
+        # my_set=set()
+        # while temp is not None:
+        #     if temp in my_set:
+        #         return True
+        #     else:
+        #         my_set.add(temp)
+        #         temp=temp.next
+        # return False 
+
+        #OPTIMAL SOLUTION BABY
+        slow=head
+        fast=head
+        while fast is not None and fast.next is not None:
+            slow=slow.next
+            fast=fast.next.next
+            if slow==fast:
                 return True
-            else:
-                my_set.add(temp)
-                temp=temp.next
-        return False 
+        return False
+
+
