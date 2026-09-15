@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0015-3sum) |
+| [0148-sort-list](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0148-sort-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0328-odd-even-linked-list) |
@@ -131,4 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0234-palindrome-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
