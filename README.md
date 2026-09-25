@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0002-add-two-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1903-largest-odd-number-in-string](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0410-split-array-largest-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1903-largest-odd-number-in-string](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Database
 |  |
 | ------- |
