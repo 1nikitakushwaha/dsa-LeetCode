@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0162-find-peak-element) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0066-plus-one) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
