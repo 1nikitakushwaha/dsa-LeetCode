@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0066-plus-one) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0012-integer-to-roman) |
 | [0058-length-of-last-word](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0242-valid-anagram) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0205-isomorphic-strings) |
