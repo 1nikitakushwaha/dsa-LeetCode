@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1393-capital-gainloss](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/1393-capital-gainloss) |
 | [1407-top-travellers](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/1407-top-travellers) |
 | [1587-bank-account-summary-ii](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/1587-bank-account-summary-ii) |
+| [3436-find-valid-emails](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/3436-find-valid-emails) |
 ## Linked List
 |  |
 | ------- |
