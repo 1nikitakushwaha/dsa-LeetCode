@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -234,5 +235,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0231-power-of-two) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
