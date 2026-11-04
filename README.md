@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0058-length-of-last-word) |
+| [0131-palindrome-partitioning](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -248,4 +250,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
