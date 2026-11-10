@@ -1,27 +1,26 @@
 class Solution:
     def partition(self, s: str) -> list[list[str]]:
-        result = []
+        res = []
         curr = []
 
-        def isPalindrome(word):
-            return word == word[::-1]
+        def isPalindrome(l, r):
+            while l < r:
+                if s[l] != s[r]:
+                    return False
+                l += 1
+                r -= 1
+            return True
 
         def backtrack(index):
-
-            if index == len(s):
-                result.append(curr[:])
+            if index == len(s):          # whole string used
+                res.append(curr[:])      # save a copy
                 return
 
             for i in range(index, len(s)):
-
-                substring = s[index:i+1]
-
-                if isPalindrome(substring):
-                    curr.append(substring)
-
-                    backtrack(i + 1)
-
-                    curr.pop()
+                if isPalindrome(index, i):
+                    curr.append(s[index:i+1])   # choose
+                    backtrack(i + 1)            # explore
+                    curr.pop()                  # un-choose
 
         backtrack(0)
-        return result
+        return res
