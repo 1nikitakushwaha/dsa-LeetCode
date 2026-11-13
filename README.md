@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0242-valid-anagram) |
@@ -250,5 +252,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0131-palindrome-partitioning) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
