@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0980-unique-paths-iii](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0980-unique-paths-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0231-power-of-two) |
+| [0980-unique-paths-iii](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0980-unique-paths-iii) |
 ## Backtracking
 |  |
 | ------- |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0980-unique-paths-iii](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0980-unique-paths-iii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -262,4 +265,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0079-word-search) |
+| [0980-unique-paths-iii](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0980-unique-paths-iii) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
