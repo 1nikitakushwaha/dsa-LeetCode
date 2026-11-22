@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -276,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0980-unique-paths-iii) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
