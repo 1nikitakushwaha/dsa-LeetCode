@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0394-decode-string) |
 | [1922-count-good-numbers](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/1922-count-good-numbers) |
 ## Hash Table
 |  |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/1021-remove-outermost-parentheses) |
