@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0735-asteroid-collision) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0980-unique-paths-iii](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0980-unique-paths-iii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0412-fizz-buzz) |
+| [0735-asteroid-collision](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
 |  |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/1nikitakushwaha/dsa-LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Divide and Conquer
